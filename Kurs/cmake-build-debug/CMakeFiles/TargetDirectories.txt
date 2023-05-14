@@ -1,0 +1,3 @@
+C:/Users/nasty/CLionProjects/Kurs/cmake-build-debug/CMakeFiles/Kurs.dir
+C:/Users/nasty/CLionProjects/Kurs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nasty/CLionProjects/Kurs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

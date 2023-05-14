@@ -1,0 +1,3 @@
+C:/Users/nasty/CLionProjects/LZW/cmake-build-debug/CMakeFiles/LZW.dir
+C:/Users/nasty/CLionProjects/LZW/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nasty/CLionProjects/LZW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
